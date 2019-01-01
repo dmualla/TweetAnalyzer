@@ -16,7 +16,7 @@ def chart():
 
 
 @app.route("/refresh")
-def chart2():
+def hbase_to_json():
     one_hour_from_now = datetime.now() + timedelta(minutes=-3)
     print(format(one_hour_from_now, '%Y-%m-%d %H:%M:%S'))
     result={}
