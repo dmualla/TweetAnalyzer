@@ -20,5 +20,5 @@ Run  visualize.py script to access the page that visualizes the data using Chart
 
 ### Output
 you should be able to see two real-time graphs one is bar chart to show and split data per time intervals (5 seconds in code) and the other shows a pie chart for all data collected within a defined amount of time (3 minutes in the code)
-![bar chart](https://raw.githubusercontent.com/dmualla/tweet-analyzer/master/readme/barchart.png)
+![bar chart](https://raw.githubusercontent.com/dmualla/tweet-analyzer/master/readme/barchart.gif)
 ![pie chart](https://raw.githubusercontent.com/dmualla/tweet-analyzer/master/readme/piechart.png)
