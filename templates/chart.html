@@ -1,0 +1,28 @@
+<html><head>
+	<title>Tweets Statistics</title>
+	<script src="//www.google-analytics.com/analytics.js" async=""></script>
+	<script src="http://www.chartjs.org/dist/2.7.3/Chart.bundle.js"></script>
+	<style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style>
+	<script src="http://www.chartjs.org/samples/latest/utils.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<style>
+	canvas {
+		-moz-user-select: none;
+		-webkit-user-select: none;
+		-ms-user-select: none;
+	}
+	</style>
+</head>
+
+<body>
+	<canvas class="chartjs-render-monitor" height="372" width="745" style="display: block; width: 745px; height: 372px;" id="canvas2"></canvas>
+
+	<div id="canvas-holder" style="width:100%"><div class="chartjs-size-monitor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;"><div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;"><div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div></div><div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;"><div style="position:absolute;width:200%;height:200%;left:0; top:0"></div></div></div>
+		<canvas class="chartjs-render-monitor" height="420" width="1024" style="display: block; width: 403px; height: 201px;" id="chart-area"></canvas>
+	</div>
+	<button id="changeCircleSize">Semi/Full Circle</button>
+
+	<script src="/static/chart_js.js"></script>
+
+</body></html>

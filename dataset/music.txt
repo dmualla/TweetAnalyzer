@@ -1,0 +1,238 @@
+abstract dance
+acro
+allemande
+ballet
+ballroom dance
+barn dance
+beguine
+belly dance
+bolero
+bop
+bossa nova
+bourrée
+breakdance
+bunny hop
+Cajun dance
+cakewalk
+can-can
+Carioca
+ceilidh
+cha-cha
+Charleston
+classical dance
+clogging
+conga
+contra dance
+country-western
+courante
+dance
+disco
+dragon dance
+fandango
+flamenco
+folk dance
+foxtrot
+frug
+gavotte
+gigue
+habanera
+Highland fling
+hip hop
+hoedown
+hokey-pokey
+hop
+hula
+hustle
+ice dancing
+interpretive dance
+Irish dance
+jazz dance
+jig
+jitterbug
+jive
+koftos
+krump
+lambada
+Latin dance
+limbo
+Lindy
+line dance
+Macarena
+Malagueña
+mambo
+maypole dance
+mazurka
+merengue
+Mexican hat dance
+minuet
+modern dance
+one-step
+pas de deux
+Pasodoble
+pavane
+polka
+pop
+quadrille
+quickstep
+reel
+reggae
+rumba
+salsa
+Scottish dance
+slow dance
+soft shoe
+sousta
+square dance
+step dance
+stomp
+swing
+tango
+tap dance
+tarantella
+time warp
+toe dance
+troika
+twist
+two step
+Ukrainian dance
+Viennese waltz
+waltz
+Watusi
+zydeco
+accordion
+acoustic guitar
+Aeolian harp
+Alphorn
+alto saxophone
+anvil
+baby grand piano
+bagpipe
+balalaika
+bandoneon
+bandura
+banjo
+baritone horn
+bass
+bass clarinet
+bass drum
+bass guitar
+bell
+bongo drum
+bouzouki
+bow
+brass instruments
+bugle
+calliope
+carillon
+castanets
+celesta
+cello
+Celtic harp
+chimes
+cimbalom
+clarinet
+classical guitar
+clavichord
+clavier
+concertina
+conch
+conga drum
+contrabass
+cornet
+cowbell
+cymbals
+didgeridoo
+double bass
+drum
+drumsticks
+dulcimer
+electric guitar
+electric organ
+English horn
+euphonium
+fiddle
+fife
+flugelhorn
+flute
+French horn
+glockenspiel
+gong
+grand piano
+guitar
+hammered dulcimer
+harmonica
+harmonium
+harp
+harpsichord
+helicon
+horn
+hurdy-gurdy
+instrument
+jaw harp
+Jew's harp
+kazoo
+kettledrum
+keyboard
+lute
+lyre
+mallets
+mandolin
+maracas
+marimba
+mellophone
+melodeon
+Moog synthesizer
+musical saw
+mute
+oboe
+ocarina
+organ
+pan pipes
+penny whistle
+piano
+piccolo
+pipa
+pipe organ
+player piano
+pump organ
+rainstick
+rattle
+reed
+saw
+saxophone
+sitar
+slide whistle
+snare drum
+sousaphone
+spinet
+spoons
+steel drum
+steel guitar
+string bass
+string instruments
+strings
+synthesizer
+tabla
+theremin
+thumb piano
+timpani
+tin whistle
+tom-tom drum
+tuba
+tubular bells
+ukulele
+upright piano
+valve
+vibraphone
+viola
+viola da gamba
+violin
+violoncello
+vuvuzela
+Wagner tuba
+washboard
+whistle
+wind chime
+wind instruments
+woodwind instruments
+zither
